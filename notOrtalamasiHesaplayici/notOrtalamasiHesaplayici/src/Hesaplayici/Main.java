@@ -2,7 +2,7 @@ package Hesaplayici;
 
 import java.util.Scanner;
 
-public class ortalamaHesaplayici {
+public class Main {
 	public static void main(String[] args){
 		
 		//Kullanıcıdan isteyeceğimiz inputları değişken olarak tanımlıyoruz...
