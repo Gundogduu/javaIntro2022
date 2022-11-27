@@ -14,7 +14,7 @@ Lütfen kimya notunuzu girin : 89
 Lütfen Türkçe notunuzu girin : 67
 Lütfen Tarih notunuzu girin : 89
 Lütfen Müzik notunuzu girin : 89.0
-Not ortalamanız: 79.83333333333333 dolayısıyla, sınıfı geçtin!
+Not ortalamanız: 79.83333333333333 dolayısıyla sınıfı geçtin!
 ```
 ### 60'dan az ortalama sonucu:
 ```Lütfen matematik notunuzu girin : 20
@@ -23,5 +23,5 @@ Lütfen kimya notunuzu girin : 20
 Lütfen Türkçe notunuzu girin : 20
 Lütfen Tarih notunuzu girin : 20.0
 Lütfen Müzik notunuzu girin : 20
-Not ortalamanız: 20.0 dolayısıyla, sınıfta kaldın!
+Not ortalamanız: 20.0 dolayısıyla sınıfta kaldın!
 ```
