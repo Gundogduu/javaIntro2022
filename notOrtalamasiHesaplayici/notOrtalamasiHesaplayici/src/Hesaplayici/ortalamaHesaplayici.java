@@ -1,4 +1,4 @@
-package notOrtalamasiHesaplayici;
+package Hesaplayici;
 
 import java.util.Scanner;
 
