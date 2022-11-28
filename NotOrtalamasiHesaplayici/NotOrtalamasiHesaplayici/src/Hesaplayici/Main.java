@@ -35,7 +35,7 @@ public class Main {
 		
 		//Tüm inputları topluyoruz ve tümünün ortalamasını bulmak için kaç tane input varsa o adete bölüyoruz...
 		Double ortalama = mat + fizik + kimya + turkce + tarih + muzik;
-		ortalama /= 6;
+		ortalama /= 6; 
 		
 		
 		//Kullanıcıya cıktı olarak hem ortalamasını hem geçip kalma durumunu veriyoruz...
