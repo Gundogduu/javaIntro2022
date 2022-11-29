@@ -12,9 +12,9 @@ public class Main {
 		System.out.print("Dairenin merkez açı ölçüsünü girin: ");
 		a = scanner.nextDouble();
 		
-		//formul
+		//formula
 		areaOfTheCircleSlice = (pi * (r * r) * a) / 360;
-		System.out.println("Daire diliminin alanı: " + areaOfTheCircleSlice);
+		System.out.println("Daire diliminin alanı: " + areaOfTheCircleSlice); 
 				
 				
 				
