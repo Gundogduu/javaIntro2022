@@ -8,23 +8,26 @@ Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmas
 
 ## Sonuç:
 
-### Normal durum:
+### Geçme durumu:
 ````
-Matematik notunuzu girin: 45
-Fizik notunuzu girin: 43
+Matematik notunuzu girin: 898
+Fizik notunuzu girin: 90
 Kimya notunuzu girin: 78
-Türkçe notunuzu girin: 95,6
-Müzik notunuzu girin: 67
-Ortalamanız: 65.72
+Türkçe notunuzu girin: 89
+Müzik notunuzu girin: 78
+Ortalamanız: 83.75
+Tebrikler, sınıfı geçtiniz!
 ````
 
-### Hatalı Durum:
+
+### Kalma Durumu:
 ````
 Matematik notunuzu girin: 45
-Fizik notunuzu girin: 232
-Kimya notunuzu girin: 433
-Türkçe notunuzu girin: 4
-Müzik notunuzu girin: 243
-Geçersiz not! Lütfen 0 ile 100 arasında not girin
-````
+Fizik notunuzu girin: 45
+Kimya notunuzu girin: 0
+Türkçe notunuzu girin: 67
+Müzik notunuzu girin: 78
+Ortalamanız: 47.0
+Malesef kaldınız!
+
 
