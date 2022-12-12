@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 import javax.naming.spi.DirStateFactory.Result;
+import javax.sound.midi.Soundbank;
 
 public class Main {
 	public static void main(String[] args) {
@@ -48,6 +49,8 @@ public class Main {
 		case 11:
 			System.out.println("Çin Zodyağı Burcunuz: Koyun");
 			break;
+		default:
+			System.out.println("Hatalı giriş yaptınız.");
 		}
 
 		
