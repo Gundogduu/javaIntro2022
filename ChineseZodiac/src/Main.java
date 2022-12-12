@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-import javax.naming.spi.DirStateFactory.Result;
-import javax.sound.midi.Soundbank;
-
 public class Main {
 	public static void main(String[] args) {
 		int birthYear, result;
