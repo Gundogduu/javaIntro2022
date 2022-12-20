@@ -22,5 +22,5 @@ Yıl girin: 2020
 
 ````
 Yıl girin: 2021
-2020 bir artık yıl değil!
+2021 bir artık yıl değil!
 ````
