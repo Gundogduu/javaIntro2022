@@ -23,9 +23,6 @@ public class Main {
 			System.out.println(year + " bir artık yıl değil!");
 		}
 		
-		
-		
-		
 	}
 
 }
