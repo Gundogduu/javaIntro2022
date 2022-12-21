@@ -17,7 +17,7 @@ public class Main {
 			}		
 		}
 		average = sum / unit;
-		System.out.println(unit + " unit");
+		System.out.println(unit + " units");
 		System.out.println(sum + " sum");
 		System.out.println("Average: " + average);
 		
