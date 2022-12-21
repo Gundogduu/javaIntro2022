@@ -11,7 +11,7 @@ Sayı girin: 50
 24
 36
 48
-5 unit
+5 units
 120 sum
 Average: 24
 ````
