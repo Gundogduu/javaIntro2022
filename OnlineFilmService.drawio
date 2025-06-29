@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Sayfa -1" id="mBP4cxEtIyrnbEJjsEhS">
     <mxGraphModel dx="1002" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -78,10 +78,10 @@
         <mxCell id="E2K1F9mpwsVdANLcHu1M-40" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="E2K1F9mpwsVdANLcHu1M-15" vertex="1">
           <mxGeometry y="240" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="jZEa46fIJBFfjrasHNMA-2" value="+ listbyReleaseDate(date releaseDate): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="E2K1F9mpwsVdANLcHu1M-15" vertex="1">
+        <mxCell id="jZEa46fIJBFfjrasHNMA-2" value="+ listbyReleaseDate(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="E2K1F9mpwsVdANLcHu1M-15" vertex="1">
           <mxGeometry y="248" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jZEa46fIJBFfjrasHNMA-3" value="+ listbyImdbRate(double imdbRate): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="E2K1F9mpwsVdANLcHu1M-15" vertex="1">
+        <mxCell id="jZEa46fIJBFfjrasHNMA-3" value="+ listbyImdbRate(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="E2K1F9mpwsVdANLcHu1M-15" vertex="1">
           <mxGeometry y="278" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AhpkRdowcu0yiwx2saAU-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.8;exitY=-0.015;exitDx=0;exitDy=0;entryX=0.993;entryY=-0.017;entryDx=0;entryDy=0;endArrow=none;startFill=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="CvyPEFt5FD_blkR0Qk2H-5" target="E2K1F9mpwsVdANLcHu1M-11" edge="1">
