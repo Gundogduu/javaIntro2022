@@ -109,10 +109,10 @@
           <mxGeometry y="30" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CvyPEFt5FD_blkR0Qk2H-9" value="&lt;b&gt;BuyTransaction&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="400" width="140" height="160" as="geometry" />
+          <mxGeometry x="470" y="400" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pxBSDyWfUL_DTFW-jb_Y-3" value="+ process() void {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;userId: 1;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;filmId: 4;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;type: &quot;BUY&quot;;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;date: date;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CvyPEFt5FD_blkR0Qk2H-9" vertex="1">
-          <mxGeometry y="30" width="140" height="130" as="geometry" />
+          <mxGeometry y="30" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CvyPEFt5FD_blkR0Qk2H-13" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.471;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamondThin;endFill=1;endSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="CvyPEFt5FD_blkR0Qk2H-9" target="CvyPEFt5FD_blkR0Qk2H-3" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
